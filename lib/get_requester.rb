@@ -1,7 +1,6 @@
 require 'net/http'
 require 'open-uri'
 require 'json'
-require_relative
 
 class GetRequester
   def initialize(url)
