@@ -10,5 +10,7 @@ class GetRequester
     @url = url
   end
   
+  def get_response
+  
   
 end
